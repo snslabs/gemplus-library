@@ -1,0 +1,1 @@
+shared library to simplify  operation with gemplus smartcards
